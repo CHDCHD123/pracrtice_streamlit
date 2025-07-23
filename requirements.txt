@@ -1,8 +1,8 @@
 streamlit==1.47.0
 pandas==2.1.4
-scikit-learn==1.4.2
+numpy==1.26.4
+folium==0.20.0
+streamlit-folium==0.25.0
+shapely==2.1.1
 catboost==1.2.8
 joblib==1.3.2
-numpy==1.26.4
-matplotlib==3.7.5  # 시각화 필요 시
-seaborn==0.13.2    # 시각화 필요 시
